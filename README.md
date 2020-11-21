@@ -7,7 +7,7 @@
 - 📫 How to reach me: <harsh159357@gmail.com>
 - ⚡ I’m currently working on - Android, Kotlin, Java & Flutter
 
-<a href="https://github.com/InnoFang/InnoFang">
+<a href="https://github.com/harsh159357/harsh159357">
     <img align="right" src="https://visitor-badge.laobi.icu//badge?page_id=harsh159357.github.io">
 </a>
 
