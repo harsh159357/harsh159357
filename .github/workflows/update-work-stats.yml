@@ -14,14 +14,21 @@ jobs:
 
       - name: Generate Work Stats
         run: |
+          mkdir -p generated
+
+          # Fetch main stats card (commits, PRs, issues, stars, etc.)
           curl -H "Authorization: token ${{ secrets.READ_STATS_WORK }}" \
             "https://github-readme-stats.vercel.app/api?username=harsh-s-coindcx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" \
             -o generated/work_stats.svg
+
+          # Fetch contribution streak graph (no token needed)
+          curl "https://github-readme-streak-stats.herokuapp.com/?user=harsh-s-coindcx&theme=tokyonight&hide_border=true" \
+            -o generated/work_streak.svg
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add generated/work_stats.svg
-          git commit -m "chore: update work stats" || echo "No changes to commit"
+          git add generated/work_stats.svg generated/work_streak.svg
+          git commit -m "chore: update work stats and streak" || echo "No changes to commit"
           git push
