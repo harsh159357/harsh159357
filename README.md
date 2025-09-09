@@ -34,7 +34,7 @@
 ![Harsh's Personal Stats](https://github-readme-stats.vercel.app/api?username=harsh159357&show_icons=true&theme=tokyonight&hide_border=true)
 
 **Work Account**  
-![Harsh's Work Stats](https://github-readme-stats.vercel.app/api?username=harsh-s-coindcx&show_icons=true&theme=tokyonight&hide_border=true)
+![Harsh's Work Stats](./generated/work_stats.svg)
 
 ---
 
