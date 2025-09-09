@@ -26,17 +26,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Combined GitHub Stats
 
-**Personal Account**  
-![Harsh's Personal Stats](https://github-readme-stats.vercel.app/api?username=harsh159357&show_icons=true&theme=tokyonight&hide_border=true)  
-![Harsh's Personal Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh159357&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh159357&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh159357&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-s-coindcx&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
 
-**Work Account**  
-![Harsh's Work Stats](https://github-readme-stats.vercel.app/api?username=harsh-s-coindcx&show_icons=true&theme=tokyonight&hide_border=true)  
-![Harsh's Work Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh-s-coindcx&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-s-coindcx&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh159357&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-s-coindcx&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh159357&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-s-coindcx&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
 
 ---
 
@@ -55,7 +60,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=harsh159357&theme=onedark&row=1&column=6&margin-w=15&margin-h=15)
 
 ---
-
 
 ## 🌐 Connect with Me
 
