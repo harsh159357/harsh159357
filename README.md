@@ -1,7 +1,3 @@
-<a href="#">
-    <img align="right" src='https://github-readme-stats.vercel.app/api?username=harsh159357&show_icons=true&hide_border=true&icon_color=3F51B5&title_color=D4AC0D&hide=["contribs"]'>
-</a>  
-
 # Hi, I'm Harsh 👋  
 🚀 *Mobile Engineer building scalable fintech & crypto apps with Flutter, Kotlin & Java.*
 
@@ -27,27 +23,6 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=githubactions&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats (Combined)
-
-**Personal Account**  
-![Harsh's Personal Stats](https://github-readme-stats.vercel.app/api?username=harsh159357&show_icons=true&theme=tokyonight&hide_border=true)
-
-**Work Account**  
-![Harsh's Work Stats](./generated/work_stats.svg)
-
----
-
-## 📈 Contribution Graphs
-
-**Personal Contributions**  
-[![Harsh's Personal Contributions](https://github-readme-activity-graph.vercel.app/graph?username=harsh159357&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-**Work Contributions**  
-[![Harsh's Work Contributions](https://github-readme-activity-graph.vercel.app/graph?username=harsh-s-coindcx&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://bit.ly/lnkdharsh)
